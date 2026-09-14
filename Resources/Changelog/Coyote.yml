@@ -3694,3 +3694,10 @@ Entries:
   id: 410
   time: '2026-09-12T13:41:06.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/132
+- author: DoubleHypercube
+  changes:
+    - type: Fix
+      message: Re-added parts of SES's brainmatter
+  id: 411
+  time: '2026-09-14T10:46:27.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/139
