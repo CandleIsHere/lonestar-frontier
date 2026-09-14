@@ -3701,3 +3701,10 @@ Entries:
   id: 411
   time: '2026-09-14T10:46:27.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/139
+- author: archee1
+  changes:
+    - type: Fix
+      message: Advanced chameleon collars can be changed into other styles again.
+  id: 412
+  time: '2026-09-14T12:56:54.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/140
