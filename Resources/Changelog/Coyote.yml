@@ -3708,3 +3708,14 @@ Entries:
   id: 412
   time: '2026-09-14T12:56:54.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/140
+- author: DoubleHypercube
+  changes:
+    - type: Remove
+      message: Killed O2/N2 tanks with hammers.
+    - type: Add
+      message: Suit lockers now have both a full O2 and a full N2 tank.
+    - type: Add
+      message: The Syndicate UIV now has a blood-red medic hardsuit
+  id: 413
+  time: '2026-09-15T04:03:29.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/135
