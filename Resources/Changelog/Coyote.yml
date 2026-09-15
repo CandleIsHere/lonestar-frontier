@@ -3719,3 +3719,16 @@ Entries:
   id: 413
   time: '2026-09-15T04:03:29.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/135
+- author: Vizoplez
+  changes:
+    - type: Add
+      message: >-
+        Adds Headset slots for borgs, removes all default channels in
+        preparation for LSRD borgs.
+    - type: Add
+      message: Adds a medical tracking implant to borgs like every other player.
+    - type: Fix
+      message: Borgs can now correctly die, rather than gib.
+  id: 414
+  time: '2026-09-15T20:53:15.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/97
