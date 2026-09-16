@@ -3755,3 +3755,12 @@ Entries:
   id: 417
   time: '2026-09-16T09:31:00.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/149
+- author: archee1
+  changes:
+    - type: Fix
+      message: >-
+        The recently added IPC screen snout markings now line up on the players
+        head correctly
+  id: 418
+  time: '2026-09-16T12:30:43.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/150
