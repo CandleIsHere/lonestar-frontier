@@ -3764,3 +3764,22 @@ Entries:
   id: 418
   time: '2026-09-16T12:30:43.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/150
+- author: archee1
+  changes:
+    - type: Add
+      message: >-
+        Support has been added to toggle belts above/below
+        armor/coats/hardsuits.
+    - type: Add
+      message: >-
+        You can now tuck shoes under/over jumpsuit slot clothing items, such as
+        long dresses.
+    - type: Tweak
+      message: >-
+        All species' clothing layers have been amended to be consistent with
+        each other in regards to how clothing is 'stacked' onto the player.
+    - type: Fix
+      message: Feet are no longer rendered above clothing in every case.
+  id: 419
+  time: '2026-09-16T12:49:50.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/151
