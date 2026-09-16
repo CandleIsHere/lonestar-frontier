@@ -3739,3 +3739,12 @@ Entries:
   id: 415
   time: '2026-09-16T08:41:58.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/146
+- author: archee1
+  changes:
+    - type: Fix
+      message: >-
+        Bowties are now folded for chameleon collars and chameleon clothing
+        instead of unfolded
+  id: 416
+  time: '2026-09-16T08:51:09.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/141
