@@ -3748,3 +3748,10 @@ Entries:
   id: 416
   time: '2026-09-16T08:51:09.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/141
+- author: archee1
+  changes:
+    - type: Fix
+      message: Penguins now correctly only contain 1 penguin.
+  id: 417
+  time: '2026-09-16T09:31:00.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/149
