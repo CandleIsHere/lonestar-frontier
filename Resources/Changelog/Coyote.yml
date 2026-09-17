@@ -3783,3 +3783,24 @@ Entries:
   id: 419
   time: '2026-09-16T12:49:50.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/151
+- author: archee1
+  changes:
+    - type: Remove
+      message: Most regular lathes no longer have a magnet.
+    - type: Fix
+      message: Cryopods now eject the beaker before the patient.
+    - type: Fix
+      message: >-
+        Material Reclaimers alternative action toggles power instead of the
+        magnet.
+    - type: Fix
+      message: >-
+        Biogenerators alternative action now ejects the beaker before trying to
+        toggle the magnet.
+    - type: Fix
+      message: >-
+        Fluid containers such as water bottles, can be alt interacted to be
+        opened/closed instead of drinking from them.
+  id: 420
+  time: '2026-09-17T14:30:48.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/156
